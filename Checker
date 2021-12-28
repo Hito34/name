@@ -1,0 +1,8 @@
+if not syn then
+    game.Players.LocalPlayer:Kick("お前は雑魚チーターwww")
+end
+
+game.StarterGui:SetCore("SendNotification", {
+Title = "おめでとう";
+Text = "あなたは上級者チーターです";
+})
